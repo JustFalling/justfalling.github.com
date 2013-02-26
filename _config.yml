@@ -1,14 +1,12 @@
 # The name of the author of the portfolio.
-author: Zachary Lewis
+author: Kara Netterville
 
 # The URL where the portfolio is hosted.
-url: http://zacharylew.is
+url: http://karanetterville.com
 
-# The subdirectory containing your portfolio.
-baseurl: /simplefolio
 
 # The title of the site.
-title: Simplefolio
+title: KaraNetterville
 
 # Permalink settings
 permalink: /:categories/:title
